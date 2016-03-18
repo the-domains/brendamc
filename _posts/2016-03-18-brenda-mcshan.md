@@ -6,18 +6,18 @@ inLanguage: null
 starred: true
 keywords: []
 description: "Each day I try to do 3 things.\_"
-datePublished: '2016-03-18T11:33:42.939Z'
-dateModified: '2016-03-18T11:33:17.799Z'
-title: brenda mcshan
+datePublished: '2016-03-18T11:44:01.244Z'
+dateModified: '2016-03-18T11:43:20.939Z'
+title: Daily practices.
 author: []
+sourcePath: _posts/2016-03-18-brenda-mcshan.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-18-brenda-mcshan.md
-published: true
 url: brenda-mcshan/index.html
 _type: Article
 
