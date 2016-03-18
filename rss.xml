@@ -4,7 +4,7 @@
         <description><![CDATA[brendamc]]></description>
         <link>https://thegrid.ai/brendamc/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 18 Mar 2016 11:44:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Mar 2016 12:03:43 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/brendamc/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Daily practices.]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/brendamc/brenda-mcshan/index.html</link>
             <guid isPermaLink="false">dc493af3-9e19-48e7-8145-80f945553664</guid>
             <pubDate>Fri, 18 Mar 2016 11:44:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>My Designs</p>]]></description>
+            <link>https://thegrid.ai/brendamc/my-designs/index.html</link>
+            <guid isPermaLink="false">996e9745-cec5-4736-8ce3-44192dd92718</guid>
+            <pubDate>Fri, 18 Mar 2016 12:02:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
